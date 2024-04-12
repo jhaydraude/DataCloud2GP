@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>DataSrcDataModelsynYbnCcLqxvwZr</masterLabel>
+    <sourceField>jhddc__Contact_00D7X000001KNmc1.jhddc__DataSource__c</sourceField>
+    <targetField>ssot__Individual__dlm.ssot__DataSourceId__c</targetField>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>
