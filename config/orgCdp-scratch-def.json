@@ -1,7 +1,7 @@
  {
   "orgName": "DC SCR",
   "edition": "Developer",
-  "features": ["customerdataplatform","EnableSetPasswordInApi"],
+  "features": ["CustomerDataPlatform","EnableSetPasswordInApi"],
   "settings": {
     "securitySettings": {
         "passwordPolicies": {

@@ -6,13 +6,24 @@
       "package": "DC Test",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
-      "versionDescription": ""
-      ,
-      "dependencies": [ 
-      {
+      "versionDescription": "",
+      "dependencies": [
+        {
           "package": "04t5Y000001MkFa"
-      }
+        },
+        {
+          "package": "DC Test Base Package",
+          "versionNumber": "0.1.0.LATEST"
+        }
       ]
+    },
+    {
+      "path": "base-app",
+      "package": "DC Test Base Package",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "namespace": "jhddc",
@@ -20,6 +31,10 @@
   "sourceApiVersion": "60.0",
   "packageAliases": {
     "DC Test": "0Ho8b00000000FqCAI",
-    "DC Test@0.1.0-1": "04t8b000001BVASAA4"
+    "DC Test@0.1.0-1": "04t8b000001BVASAA4",
+    "DC Test@0.1.0-2": "04t8b000001BVAXAA4",
+    "DC Test Base Package": "0Ho8b00000000FvCAI",
+    "DC Test Base Package@0.1.0-1": "04t8b000001BVAcAAO",
+    "DC Test@0.1.0-3": "04t8b000001BVAhAAO"
   }
 }
