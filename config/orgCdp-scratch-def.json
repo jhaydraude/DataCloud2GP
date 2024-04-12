@@ -1,0 +1,22 @@
+ {
+  "orgName": "DC SCR",
+  "edition": "Developer",
+  "features": ["customerdataplatform","EnableSetPasswordInApi"],
+  "settings": {
+    "securitySettings": {
+        "passwordPolicies": {
+            "expiration": "Never",
+            "historyRestriction": "0"
+        },
+        "enableAdminLoginAsAnyUser": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true,
+      "enableUsersAreLightningOnly": true,
+      "enableLexEndUsersNoSwitching": "true"
+    },
+    "customerDataPlatformSettings": {
+      "enableCustomerDataPlatform":true
+    }
+  }
+} 

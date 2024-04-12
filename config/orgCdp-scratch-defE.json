@@ -1,0 +1,22 @@
+ {
+  "orgName": "kOrgCdpE6",
+  "edition": "Enterprise",
+  "features": ["CUSTOMERDATAPLATFORM","EnableSetPasswordInApi"],
+  "settings": {
+    "securitySettings": {
+        "passwordPolicies": {
+            "expiration": "Never",
+            "historyRestriction": "0"
+        },
+        "enableAdminLoginAsAnyUser": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true,
+      "enableUsersAreLightningOnly": true,
+      "enableLexEndUsersNoSwitching": "true"
+    },
+    "customerDataPlatformSettings": {
+      "enableCustomerDataPlatform":true
+    }
+  }
+} 
