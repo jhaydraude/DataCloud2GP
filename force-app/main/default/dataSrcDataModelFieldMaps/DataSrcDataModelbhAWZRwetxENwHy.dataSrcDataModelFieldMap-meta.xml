@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>DataSrcDataModelbhAWZRwetxENwHy</masterLabel>
+    <sourceField>jhddc__jhddc_CustomObject_c_00D7X000001KNmc1.jhddc__IsDeleted__c</sourceField>
+    <targetField>jhddc__Custom_DMO__dlm.jhddc__IsDeleted__c</targetField>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>
